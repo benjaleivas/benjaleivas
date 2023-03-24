@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi! I'm Benjamin. 👋
+
+* :books: I'm a graduate student at UChicago's MS in Computational Analysis and Public Policy. Before that, I studied economics.
+* :briefcase: Worked for 3+ years at the Chilean Antitrust Authority studying healthcare, energy, and procurement markets (to name a few). 
+* :mailbox: You can reach me at bleiva@uchicago.edu.
 
 <!--
 **benjaleivas/benjaleivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
