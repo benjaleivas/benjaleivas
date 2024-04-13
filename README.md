@@ -1,4 +1,4 @@
-### Hello there 👋 I'm Benjamin
+### Hello there! I'm Benjamin 👋
 
 * :books: I'm a graduate student at UChicago's MS in Computational Analysis and Public Policy. Before that, I studied economics.
 * :briefcase: Worked for 3+ years in antitrust researching healthcare, energy, education, and procurement markets (to name a few).
