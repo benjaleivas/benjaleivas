@@ -1,6 +1,6 @@
 ### Hello there! I'm Benjamin 👋
 
-* :books: I'm a graduate student at UChicago's MS in Computational Analysis and Public Policy. Before that, I studied economics.
+* :books: MS in Computational Analysis and Public Policy, University of Chicago. Before that, I studied economics.
 * :briefcase: Worked for 3+ years in antitrust researching healthcare, energy, education, and procurement markets (to name a few).
 * :house_with_garden: I'll be relocating to Palo Alto, CA in September 2024, so I'm currently looking for job opportunities in the area.
 * :mailbox: You can reach me at bleiva@uchicago.edu.
