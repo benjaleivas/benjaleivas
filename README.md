@@ -1,9 +1,8 @@
 ### Hello there! I'm Benjamin 👋
 
 * :books: MS in Computational Analysis and Public Policy, University of Chicago. Before that, I studied economics.
-* :briefcase: Worked for 3+ years in antitrust researching healthcare, energy, education, and procurement markets (to name a few).
-* :house_with_garden: I'll be relocating to the Bay Area in September 2024, so I'm currently looking for job opportunities in the area.
-* :mailbox: You can reach me at bleiva@uchicago.edu.
+* :briefcase: I'm a research data analyst at Stanford GSE's Generative AI for Education Hub. Before that, I interned at UChicago's MiiE Lab analyzing school textbooks, and worked for 3+ years in antitrust researching education, healthcare, energy, and procurement markets.
+* :mailbox: You can reach me at bleivas@stanford.edu.
 
 <!--
 **benjaleivas/benjaleivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
