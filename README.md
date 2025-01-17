@@ -1,7 +1,7 @@
 ### Hello there! I'm Benjamin 👋
 
 * :books: I hold an MS in Computational Analysis and Public Policy from the University of Chicago, along with an MS and BA in Economics.
-* :briefcase: I work as a senior research data analyst at Stanford Graduate School of Education’s Generative AI in Education Hub. Previously, I interned at UChicago’s MiiE Lab developing AI-powered data pipelines for school textbook analysis, and worked as an economist at the Chilean Antitrust Agency researching market efficiency and competition in education, healthcare, energy, and public procurement sectors.
+* :briefcase: I work as a senior research data analyst at Stanford Graduate School of Education’s Generative AI in Education Hub. Previously, I interned at UChicago’s MiiE Lab developing AI-powered data pipelines for school textbook analysis, and worked as an economist at the Chilean Antitrust Agency researching market efficiency and competition in education, healthcare, energy, and public procurement industries.
 * :mailbox: You can reach me at bleivas@stanford.edu.
 
 <!--
